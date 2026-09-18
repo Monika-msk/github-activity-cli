@@ -12,10 +12,8 @@ python github_activity.py <username>
 - Displays events in human-readable format (pushes, stars, issues, PRs, etc.)
 - Graceful error handling for invalid usernames and network failures
 
-## How to Run
+## Project URL
 
-```bash
-python github_activity.py <username>
 
 
 ## Note
