@@ -17,5 +17,6 @@ python github_activity.py <username>
 ```bash
 python github_activity.py <username>
 
+
 ## Note
 As of October 2025, GitHub removed commit counts and details from PushEvent payloads in the Events API for performance reasons. This tool reflects that — push events are shown without a commit count.
