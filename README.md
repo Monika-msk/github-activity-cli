@@ -13,8 +13,7 @@ python github_activity.py <username>
 - Graceful error handling for invalid usernames and network failures
 
 ## Project URL
-
-
+https://github.com/Monika-msk/github-activity-cli
 
 ## Note
 As of October 2025, GitHub removed commit counts and details from PushEvent payloads in the Events API for performance reasons. This tool reflects that — push events are shown without a commit count.
